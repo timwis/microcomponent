@@ -68,7 +68,7 @@ built-in lifecycle events are:
 ### `component.emit(eventname, [props])`
 Trigger a handler on the component.
 
-### `DOMNode = component.render([props])`
+### `DOMNode = component.render(props)`
 Render an element.
 
 ## See Also
